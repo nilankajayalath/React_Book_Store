@@ -17,6 +17,6 @@ This has been a great learning experience, and I'm thrilled to continue building
 
 ![Screenshot (82)](https://github.com/user-attachments/assets/5db78d00-2533-4725-8819-8cf614922ccd)
 
-# Checkout Page :
+# Cart Page :
 
 ![Screenshot (79)](https://github.com/user-attachments/assets/6b8b0cf0-f4b3-44b2-a30f-ba4a618949d2)
